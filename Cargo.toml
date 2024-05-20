@@ -1,0 +1,9 @@
+[package]
+name = "atmospheric-sensor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+byteorder = "1.5.0"
+embedded-hal = "1.0.0"
+embedded-hal-mock = "0.10.0"
